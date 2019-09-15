@@ -1,6 +1,8 @@
 /**
-* Author: James, Protox
+* Author: James
 * start intro
+*
+* Further Developing by: Protox
 *
 * Arguments:
 * None
