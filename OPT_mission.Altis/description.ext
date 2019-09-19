@@ -35,6 +35,6 @@ class CLib {
     useFallbackRemoteExecution = 0;
 };
 
-//#include "war.ext"
-#include "train.ext"
+#include "war.ext"
+//#include "train.ext"
 
