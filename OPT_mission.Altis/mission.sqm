@@ -16,16 +16,6 @@ class EditorData
 	};
 	class LayerIndexProvider
 	{
-<<<<<<< HEAD
-		nextID=33642;
-	};
-	class Camera
-	{
-		pos[]={2842.1145,143.77565,23986.51};
-		dir[]={-0.68801212,-0.45593104,0.56459391};
-		up[]={-0.35244986,0.89001518,0.28922692};
-		aside[]={0.63436466,-5.8114529e-007,0.77303404};
-=======
 		nextID=35164;
 	};
 	class Camera
@@ -34,7 +24,6 @@ class EditorData
 		dir[]={0.55353659,-0.70911133,-0.43683839};
 		up[]={0.55666286,0.70507407,-0.43930551};
 		aside[]={-0.61952406,8.0734026e-007,-0.78502512};
->>>>>>> origin/legacy
 	};
 };
 binarizationWanted=0;
@@ -141,23 +130,17 @@ addons[]=
 	"A3_Structures_F_Exp_Infrastructure_Pavements",
 	"A3_Structures_F_Exp_Naval_Piers",
 	"opt_vehicles_cars",
-<<<<<<< HEAD
+
 	"A3_Data_F_Exp_A_Virtual",
 	"A3_Drones_F_Air_F_Gamma_UAV_02"
-=======
-	"A3_Soft_F_Exp_LSV_01",
-	"A3_Data_F_Exp_A_Virtual"
->>>>>>> origin/legacy
 };
 class AddonsMetaData
 {
 	class List
 	{
-<<<<<<< HEAD
+
 		items=55;
-=======
-		items=57;
->>>>>>> origin/legacy
+
 		class Item0
 		{
 			className="A3_Characters_F";
