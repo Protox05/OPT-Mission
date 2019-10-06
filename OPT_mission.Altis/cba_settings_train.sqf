@@ -138,11 +138,15 @@ force OPT_warehouse_orderSpawnRadius = 15;
 force OPT_warehouse_saleRadius = 15;
 force OPT_warehouse_saleReturnValueForEnemy = 1.5;
 force OPT_warehouse_saleReturnValueForOwn = 0.75;
+// OPT GPS
+
+force OPT_gps_maxMarkerNo = 80;
 
 // OPT Komponenten
 force OPT_beam_on = true;
 force OPT_cargo_on = true;
 force OPT_fieldrepair_on = true;
+force OPT_gps_on = true;
 force OPT_hud_on = true;
 force OPT_marker_on = true;
 force OPT_mhq_on = false;
@@ -164,14 +168,14 @@ force OPT_marker_customMarkerTxt = "#z";
 force OPT_marker_useRealTime = false;
 
 // OPT Mission
-force OPT_csat_budget = "9000000";
-force OPT_dispo = "100000";
-force OPT_nato_budget = "9000000";
-force OPT_PARAM_FREEZE_TIME = 0;
-force OPT_PARAM_PLAYTIME = 10800;
-force OPT_PARAM_SHOW_INTRO = false;
-force OPT_PARAM_TEAMBALANCE = 0;
-force OPT_PARAM_TRUCETIME = 900;
+force OPT_csat_budget = "7140000";
+force OPT_dispo = "3000000";
+force OPT_nato_budget = "7140000";
+force OPT_PARAM_FREEZE_TIME = 30;
+force OPT_PARAM_PLAYTIME = 9000;
+force OPT_PARAM_SHOW_INTRO = true;
+force OPT_PARAM_TEAMBALANCE = 5.10248;
+force OPT_PARAM_TRUCETIME = 420;
 force OPT_repairSystem_refuelCost = "1000";
 force OPT_repairSystem_repairCost = "1000";
 force OPT_respawn_cost_max = "3000";
