@@ -130,7 +130,6 @@ addons[]=
 	"A3_Structures_F_Exp_Infrastructure_Pavements",
 	"A3_Structures_F_Exp_Naval_Piers",
 	"opt_vehicles_cars",
-
 	"A3_Data_F_Exp_A_Virtual",
 	"A3_Drones_F_Air_F_Gamma_UAV_02"
 };
