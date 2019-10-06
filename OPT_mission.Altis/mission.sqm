@@ -8,11 +8,7 @@ class EditorData
 	toggles=586;
 	class ItemIDProvider
 	{
-<<<<<<< HEAD
 		nextID=9836;
-=======
-		nextID=9917;
->>>>>>> origin/legacy
 	};
 	class MarkerIDProvider
 	{
