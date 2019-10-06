@@ -130,19 +130,23 @@ force DEFAULT_FULLREPAIR_LENGTH = 60;
 force DEFAULT_REPAIR_TRUCK_USES = 10;
 
 // OPT Kaufsystem
-force OPT_PARAM_ONLY_CREW = true;
-force OPT_PARAM_ONLY_PILOTS = true;
+force OPT_PARAM_ONLY_CREW = false;
+force OPT_PARAM_ONLY_PILOTS = false;
 force OPT_warehouse_allowSale = true;
 force OPT_warehouse_blockedVehiclePositions = ["driver"];
 force OPT_warehouse_orderSpawnRadius = 15;
 force OPT_warehouse_saleRadius = 15;
 force OPT_warehouse_saleReturnValueForEnemy = 1.5;
 force OPT_warehouse_saleReturnValueForOwn = 0.75;
+// OPT GPS
+
+force OPT_gps_maxMarkerNo = 80;
 
 // OPT Komponenten
 force OPT_beam_on = true;
 force OPT_cargo_on = true;
 force OPT_fieldrepair_on = true;
+force OPT_gps_on = true;
 force OPT_hud_on = true;
 force OPT_marker_on = true;
 force OPT_mhq_on = false;
@@ -150,7 +154,7 @@ force OPT_persistence_on = false;
 force OPT_radar_on = false;
 force OPT_revive_on = true;
 force OPT_tfar_on = true;
-force OPT_training_on = false;
+force OPT_training_on = true;
 force OPT_uav_on = true;
 force OPT_Waffenruhemarker_on = true;
 force OPT_waffenwechsel_on = true;
@@ -164,9 +168,9 @@ force OPT_marker_customMarkerTxt = "#z";
 force OPT_marker_useRealTime = false;
 
 // OPT Mission
-force OPT_csat_budget = "5000000";
+force OPT_csat_budget = "7140000";
 force OPT_dispo = "3000000";
-force OPT_nato_budget = "5000000";
+force OPT_nato_budget = "7140000";
 force OPT_PARAM_FREEZE_TIME = 30;
 force OPT_PARAM_PLAYTIME = 9000;
 force OPT_PARAM_SHOW_INTRO = true;
